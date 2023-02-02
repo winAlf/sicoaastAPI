@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sicoaastAPI", "sicoaastAPI\sicoaastAPI.csproj", "{037B66A2-67FD-4308-A15A-8A39C1981BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037B66A2-67FD-4308-A15A-8A39C1981BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037B66A2-67FD-4308-A15A-8A39C1981BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037B66A2-67FD-4308-A15A-8A39C1981BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037B66A2-67FD-4308-A15A-8A39C1981BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD38E2D-976E-41EA-84BC-0496E5671027}
+	EndGlobalSection
+EndGlobal
