@@ -2,7 +2,7 @@
 {
     public class UsuarioLoginRespuestaDto
     {
-       public UsuarioDto Usuario { get; set; } 
+       public Usuario Usuario { get; set; } 
        public string Token { get; set; }
     }
 }
